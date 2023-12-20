@@ -1,0 +1,47 @@
+body {
+    background-color: black;
+}
+
+.post {
+    width: 400px;
+    height: auto;
+    margin: auto;
+    background-color: white;
+}
+
+.post-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.textoheader {
+    line-height: 1px;
+    inline-size: 90%;
+
+}
+
+.post-footer {
+    width: 400px;
+    height: auto;
+    background-color: white;
+}
+
+.post-img {
+    width: auto;
+}
+
+.post-img img {
+    width: 100%;
+}
+.post-iconos {
+    font-size: 20px;
+}
+.post-iconos i:nth-child(4) {
+    float:right;
+
+}
+.parrafo { 
+    text-align:justify;
+
+}
